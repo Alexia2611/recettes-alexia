@@ -60,7 +60,7 @@ balise1{		/*Pour écrire un titre en gras*/
    margin-left:25px;
 }
 
-balise2{		/*Pour écrire les variantes en itallique */
+balise2{		/*Pour écrire les variantes en italique */
    font-style: oblique 90deg;
    color: #F0E6E4;
 }
@@ -76,3 +76,4 @@ balise2{		/*Pour écrire les variantes en itallique */
     color:#F6927C;
     border:dotted;
 }
+
