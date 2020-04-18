@@ -7,7 +7,7 @@
 
 <body>
 	<?php
-	$retour = mail('alexiaphilip2611@gmail.com', 'Envoi depuis la page Formulaire', $_POST['message'], 'From : https://alexia2611.github.io/recettes-alexia/');
+	$retour = mail('alexiaphilip2611@gmail.com', 'Envoi depuis la page Formulaire', $_POST['message'], 'From : https://alexia2611.github.io/recettes-alexia/formulaire.html');
 	if ($retour) 
 	{
 		echo '<p> Le message a bien été envoyé ! </p>';
